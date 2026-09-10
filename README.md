@@ -20,7 +20,8 @@ The fake-content/deepfake chart uses **illustrative portfolio data only**. It is
 **Demo** at https://inderj166.github.io/India-Ireland-AI-Futures/
 
 ## Technologies
-HTML • CSS • JavaScript • Chart.js
+• CSS and HTML <br>
+• JavaScript<br>
+• Chart.js <br>
 
-## Suggested repository description
-Interactive educational project exploring AI fundamentals, Machine Learning, applications, risks, ethics and responsible AI across India and Ireland.
+
