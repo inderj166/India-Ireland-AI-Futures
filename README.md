@@ -16,6 +16,8 @@ An interactive educational portfolio project exploring Artificial Intelligence, 
 
 ## Important data note
 The fake-content/deepfake chart uses **illustrative portfolio data only**. It is not official India or Ireland crime data.
+<br>
+**Demo** at https://github.com/inderj166/india-ireland-ai-futures
 
 ## Technologies
 HTML • CSS • JavaScript • Chart.js
